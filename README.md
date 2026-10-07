@@ -4,7 +4,7 @@ Una web para **escarbar vinilos desde el celular**, como pasar discos en una caj
 
 Esta es una **demo con 10 discos** de la colección de Dyler Music. Es una página estática: un `index.html` y unas imágenes, sin servidor ni base de datos.
 
-**Ver la demo:** https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/
+**Ver la demo:** https://jvargaslop.github.io/CATALOGOVINILOS/
 
 ## Qué puedes hacer
 
